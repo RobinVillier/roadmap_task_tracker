@@ -1,6 +1,7 @@
 # Description
 
-I was browsing [roadmap.sh](https://roadmap.sh/python) today and came across a few Python features I hadn’t used before, like argparse subcommands and dispatching each one to its own handler. Mainly due to my tach anim background. Rather than just reading about them, I wanted to try them out right away, so I picked a simple project from the site, the [Task Tracker](https://roadmap.sh/projects/task-tracker), and built it as a small sandbox to put them into practice.
+I was browsing [roadmap.sh](https://roadmap.sh/python) today and came across a few Python features I hadn’t used before, like argparse subcommands and dispatching each one to its own handler. Mainly due to my tech anim background, and I really want it to change. 
+Rather than just reading about them, I wanted to try them out right away, so I picked a simple project from the site, the [Task Tracker](https://roadmap.sh/projects/task-tracker), and built it as a small sandbox to put them into practice.
 
 I also wanted to startup a project with poetry, after also reading about it today, even if this project doesnt have any dependencies, I gave it a try, gathered some notes on it, and I am ready to use it again on more complex projects.
 
